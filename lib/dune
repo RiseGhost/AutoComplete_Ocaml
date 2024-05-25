@@ -1,0 +1,3 @@
+(library
+ (name predic)
+ (modules grama tree predic))
